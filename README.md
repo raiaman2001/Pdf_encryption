@@ -75,3 +75,4 @@ b)	Simplifies the encryption process, even for users with no technical backgroun
 
 c)	Offers cross-platform compatibility, running on Windows, macOS, and Linux systems.
 
+![encryption](https://github.com/user-attachments/assets/8889bef2-1751-4afd-b2dc-447428449aee)
